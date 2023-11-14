@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: about
 title: Home
 permalink: /
 subtitle: Welcome to the MGS webpage!
