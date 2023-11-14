@@ -4,7 +4,7 @@
 
 title: Mulguisin # the website title (if blank, full name will be used instead)
 first_name: Inkyu
-middle_name: R.
+middle_name:
 last_name: Park
 email: icpark@uos.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
