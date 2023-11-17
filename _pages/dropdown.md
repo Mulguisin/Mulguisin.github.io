@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: true
+title: Documentation
+nav: True
 nav_order: 7
 dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
+    - title: Howtouse
+      permalink: /Howtouse/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Package
+      permalink: /Package/
 ---
