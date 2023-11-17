@@ -6,8 +6,8 @@ nav_order: 2
 dropdown: true
 children:
     - title: Howtouse
-      permalink: /Howtouse/
+      permalink: /howtouse/
     - title: divider
     - title: Package
-      permalink: /Package/
+      permalink: /package/
 ---
