@@ -9,5 +9,5 @@ children:
       permalink: /howtouse/
     - title: divider
     - title: Package
-      permalink: /package/
+      permalink: https://github.com/Mulguisin/Mulguisin/blob/main/docs/build/html/index.html
 ---
