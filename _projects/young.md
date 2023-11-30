@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Young Ju
-description: Graduate student from University of Seoul
+description: Graduate student
 img: assets/img/youngju.jpg
 importance: 1
 category: students
