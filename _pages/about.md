@@ -6,7 +6,7 @@ subtitle: Welcome to the MGS webpage!
 
 profile:
   align: right
-  image: MGS_logo.png
+  image: test_ani2.gif #MGS_logo.png
   image_circular: false # crops the image to make it circular
   more_info:
 
