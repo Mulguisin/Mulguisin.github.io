@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Se Yeon Hwang
-description: Graduate student in University of Seoul
+description: Graduate student
 img: assets/img/photo_seyeon.png
 importance: 2
 category: students
