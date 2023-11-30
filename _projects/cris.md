@@ -5,7 +5,6 @@ description: Researcher
 img: assets/img/photo_cris.jpg
 importance: 1
 category: researchers
-giscus_comments: true
 ---
 
 
