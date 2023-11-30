@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News
+title: People
 permalink: /People/
 description: MGS Members
 nav: True
