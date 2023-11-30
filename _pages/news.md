@@ -1,11 +1,11 @@
 ---
 layout: page
 title: News
-permalink: /News/
-description: MGS News
+permalink: /People/
+description: MGS Members
 nav: True
 nav_order: 5
-display_categories: [work, fun]
+display_categories: [students, researchers, professors]
 horizontal: false
 ---
 
