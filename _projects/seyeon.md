@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Se Yeon Hwang
+title: SeYeon
 description: Graduate student
 img: assets/img/photo_seyeon.png
 importance: 2
