@@ -17,3 +17,4 @@ We found that MGS can be applied to various field, one of them is finding 3D gal
 
 Our algorithm follows the characteristics of such water ghosts (Hereafter Mulguisin or MGS). When creating clusters, elements that are connected under a certain linking length are not let go, and they are formed into a single cluster, like what Mulguisin does. To provide a more detailed explanation, let’s start with the video below. -->
 
+![MGS gif](/assets/img/MGS_schematic.gif)
