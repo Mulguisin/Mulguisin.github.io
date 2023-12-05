@@ -7,7 +7,7 @@ nav: False
 nav_order: 1
 ---
 
-### Install
+<span style="color:blueviolet"> ### Install </span>
 
 The MGS can be install via pip install: 
 
@@ -15,7 +15,7 @@ The MGS can be install via pip install:
 pip install Mulguisin
 ```
 
-### **Source code**
+### Source code
 
 The latest version of MGS can be download with: 
 
