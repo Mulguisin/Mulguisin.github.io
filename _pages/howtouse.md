@@ -76,4 +76,5 @@ We made simple example how to use label for plotting. Below one plot MGS groups 
 ```
 
 
-##### *More examples are in the [Mulguisin github](https://github.com/Mulguisin/Mulguisin/tree/main/test). We provide jupyter notebook in the link.*
+##### *More examples are in the [Mulguisin github](https://github.com/Mulguisin/Mulguisin/tree/main/test) and [colab](https://colab.research.google.com/drive/1nbGBaHeSzA7o-qYLeXtMSfElz2zALRvx?usp=sharing ). We provide jupyter notebook in the link.*
+###### Please make sure that you need to upload **rand_gal_data_210218_sig10.hdf5** to your colab file repository.
