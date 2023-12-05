@@ -7,7 +7,7 @@ nav: False
 nav_order: 1
 ---
 
-<span style="color:blueviolet"> ### Install </span>
+### <span style="background-color:#fff5b1"> Install </span>
 
 The MGS can be install via pip install: 
 
