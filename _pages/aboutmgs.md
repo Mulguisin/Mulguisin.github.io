@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-<p align="center">![MGS gif](/assets/img/make_MGS_gif_seyeon.gif, height="100px" width="300px")</p>
+!<p align="center">[MGS gif](/assets/img/make_MGS_gif_seyeon.gif, height="100px" width="300px")</p>
 
 The MulGuisin (MGS, 물귀신) is a Korean word for a ghost that lives in water and is a figure that often appears in old Korean stories. The MGS algorithm started with the idea that the ghosts hiding in the water could be found in the order of height by simply draining the water from the lake.
 
