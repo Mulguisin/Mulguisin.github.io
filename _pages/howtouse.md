@@ -10,14 +10,14 @@ nav_order: 1
 ***
 ### Installation
 
-#### pip
+##### pip
 The MGS can be install via pip install: 
 
 ```
 pip install Mulguisin
 ```
 
-#### git clone
+##### git clone
 
 The latest version of MGS source code can be download with: 
 
