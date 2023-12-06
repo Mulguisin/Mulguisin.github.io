@@ -2,7 +2,7 @@
 layout: page
 permalink: /AboutMGS/
 title: AboutMGS
-description: We will kindly guide you.
+description: 
 nav: true
 nav_order: 1
 ---
