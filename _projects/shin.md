@@ -2,7 +2,7 @@
 layout: page
 title: Lael Shin
 description: Graduate student
-img: assets/img/photo_shin.png
+img: assets/img/photo_shin.jpg
 importance: 3
 category: students
 ---
