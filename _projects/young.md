@@ -2,7 +2,7 @@
 layout: page
 title: Young Ju
 description: Graduate student
-img: assets/img/youngju.jpg
+img: assets/img/photo_young2.jpg
 importance: 1
 category: students
 related_publications:
