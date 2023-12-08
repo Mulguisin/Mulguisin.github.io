@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Jubee Sohn
-description: MGS Collaborator
+description: Professor
 img: assets/img/photo_sohn.png
 importance: 2
-category: professors
+category: faculties
 redirect: https://www.jubeesohn.com/
 ---
