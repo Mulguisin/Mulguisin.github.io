@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Cristiano G. Sabiu
-description: Researcher
+description: Research Professor
 img: assets/img/photo_cris.jpg
 importance: 1
-category: researchers
+category: faculties
 ---
 
 
