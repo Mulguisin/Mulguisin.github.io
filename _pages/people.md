@@ -5,7 +5,7 @@ permalink: /People/
 description: MGS Members
 nav: True
 nav_order: 5
-display_categories: [students, researchers, professors]
+display_categories: [students, faculties]
 horizontal: false
 ---
 
