@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jubee Sohn
-description: Professor
+description: Assistant Professor
 img: assets/img/photo_sohn.png
 importance: 2
 category: faculties
